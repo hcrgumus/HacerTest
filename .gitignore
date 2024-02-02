@@ -1,4 +1,4 @@
 .idea
 out
-src/*.txt
-*.txt
+src/notes.txt
+notes2.txt
